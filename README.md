@@ -1,5 +1,5 @@
 # Custom-Short-URL
-It helps in creating Short URLS for website.
+It's a backend project for creating Short URLS for website.
 
 # Steps to run the web app : 
 - Clone it using : `https://github.com/sethiyadivyanshu30/Custom-Short-URL.git` 
